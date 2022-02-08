@@ -1,6 +1,6 @@
 # Phonemia
 short voice clip App very fun to use to play Meme's sounds
-colabration with @saffer4u;
+colabration with @saffer4u
 This is a flutter application for uploading and playing memes it uses firebase as backend.
 
 **Download apk** : [Link](https://github.com/saffer4u/phonemia/releases/tag/InitialRelease)

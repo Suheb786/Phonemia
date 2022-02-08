@@ -39,4 +39,4 @@ On this screen admins can delete memes.
 
 ![Delete memes screen](https://raw.githubusercontent.com/saffer4u/notes/master/uPic/Delete&#x20;Screen(&#x20;2022-01-30&#x20;)&#x20;(&#x20;23:09:20&#x20;).png)
 
-"colabration with @saffer4u "
+"collaboration with @saffer4u "
